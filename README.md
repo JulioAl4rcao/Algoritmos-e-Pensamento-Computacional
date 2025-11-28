@@ -45,7 +45,7 @@ O foco é aprender na prática, construindo boas bases para qualquer linguagem d
 
 ```bash
 git clone https://github.com/JulioAl4rcao/Algoritmos-e-Pensamento-Computacional.git
-cd Algoritmos-e-Pensamento-Computacional ```
+cd Algoritmos-e-Pensamento-Computacional 
 Execute o arquivo conforme a linguagem utilizada.
 📌 Possíveis Melhorias
 Adicionar mais exercícios avançados
@@ -53,4 +53,3 @@ Criar documentação interna por pasta
 Inserir testes automatizados
 👨‍💻 Autor
 Julio Alarcão
-<p align="center"> <img src="https://via.placeholder.com/800x200?text=Fim+do+README" alt="Footer"> </p> 
